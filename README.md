@@ -46,7 +46,7 @@ comm.auth({
     }
     
     // Now, carry on creating requests and sending them
-};
+});
 ```
 
 In this example, a Preauthkey was used. If you'd like to use a password 
